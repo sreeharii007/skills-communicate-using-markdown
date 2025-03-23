@@ -6,3 +6,6 @@
 ###### This is h6 header
 # This file contains different types of headers
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hi Everyone";
+```
